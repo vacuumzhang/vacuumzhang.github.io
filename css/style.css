@@ -1,0 +1,23 @@
+
+h4 {
+	line-height: 30px;
+	font-style: oblique;	
+}
+
+.right {
+	width:330px;
+	float: right;
+    
+}
+.logo {
+	padding-left: 30px;
+}
+
+.state {
+	height : 30px;
+	background-color: #58BB46; 
+    font-szie: 6px;
+    color: #CDFEC9;
+    text-align: center;
+}
+
